@@ -1,6 +1,6 @@
 # 🚀 GigFlow — Smart Leads Dashboard
 
-A full-stack Lead Management Dashboard built with the MERN stack, TypeScript, and clean architecture.
+A full-stack Lead Management Dashboard built with the MERN stack, TypeScript and clean architecture.
 
 ![Tech Stack](https://img.shields.io/badge/Stack-MERN-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue) ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED)
 
