@@ -302,6 +302,6 @@ No seed data is included. Register your first user via `/register` and select **
 
 ## 🧑‍💻 Author
 
-Built as part of a Full Stack Internship Assignment.
+Ananya Shree 🕊️
 
 --- Thank You ---
