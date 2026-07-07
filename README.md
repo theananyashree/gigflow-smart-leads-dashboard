@@ -300,7 +300,7 @@ No seed data is included. Register your first user via `/register` and select **
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍💻 Author 
 
 Ananya Shree 🕊️
 
